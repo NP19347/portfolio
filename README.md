@@ -1,7 +1,7 @@
 <!-- Banner / Cover -->
 
  <p align="center">
-  <img src="S__9478150.jpg" alt="header image" width="200"/>
+  <img src="S__9478150.jpg" alt="header image" width="150"/>
 
 </p>
 
