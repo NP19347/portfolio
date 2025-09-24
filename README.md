@@ -55,7 +55,8 @@
 ## 🤝 Let’s Connect
 > **“Great products are built by great people working together.”**
 
-- 💌 Email: Beelittle2232@gmail.com  
+- 💌 Email: Beelittle2232@gmail.com
+- - 🐙 GitHub: [WararuckChiangchum](https://github.com/WararuckChiangchum)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WararuckChiangchum&style=flat-square" alt="profile views"/>
