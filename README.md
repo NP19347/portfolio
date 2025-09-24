@@ -1,6 +1,8 @@
 <!-- Banner / Cover -->
-<p align="center">
-  <img src="S__9478150.jpg" alt="header image" />
+
+ <p align="center">
+  <img src="S__9478150.jpg" alt="header image" width="600"/>
+
 </p>
 
 
