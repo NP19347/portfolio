@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WararuckChiangchum/WararuckChiangchum/main/assets/S__9478150.jpg" alt="header image" />
+  <img src="https://raw.githubusercontent.com/WararuckChiangchum/WararuckChiangchum/C:\Users\Nitro5\Downloads\S__9478150.jpg" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Wararuck Chiangchum <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
@@ -25,7 +25,7 @@
 
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
-| Test Automation | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white) 25A162?logo=junit5&logoColor=white)  | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) |
+| Test Automation | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)  | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white) |
 | Languages | ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
 | DevOps | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) 
 
